@@ -1,0 +1,36 @@
+{
+  
+  "appBarMain": "Startseite",
+  "tabTimer": "Timer",
+  "tabMap": "Karte",
+  "tabInfo": "Info",
+  "rateAppBtn": "App bewerten",
+  "shareAppBtn": "App teilen",
+  "contactUsBtn": "Kontaktiere uns",
+  "shareDescription": "Schau dir die Energise Test App an! {}",
+  "rateAppDialogTitle": "Genießen Sie die App?",
+  "rateAppDialogDescription": "Bitte erwägen Sie, eine Bewertung im App Store zu hinterlassen.",
+  "notNowBtn": "Jetzt nicht",
+  "thankYouBtn": "Danke!",
+  "rateAppDialogText": "Sie haben die App bewertet {}",
+  "rateNowBtn": "Jetzt bewerten",
+  "latLonText": "Breitengrad: {}, Längengrad: {}",
+  "cityText": "Stadt: {}",
+  "countryText": "Land: {}",
+  "timezoneText": "Zeitzone: {}",
+  "iSPText": "ISP: {}",
+  "orgText": "Organisation: {}",
+  "aSText": "AS: {}",
+  "queryText": "Abfrage: {}",
+  "regionText": "Region: {}",
+  "okText": "OK",
+  "languageSnackBar": "Sprache geändert zu {}",
+  "stars": {
+    "zero":"{} Sterne",
+    "one": "{} Stern",
+    "two": "{} Sterne",
+    "few": "{} Sterne",
+    "many": "{} Sterne",
+    "other": "{} Sterne"
+}
+}
